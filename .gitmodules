@@ -1,0 +1,3 @@
+[submodule "cgol_utils"]
+	path = cgol_utils
+	url = https://github.com/AlexGreason/cgol_utils.git
